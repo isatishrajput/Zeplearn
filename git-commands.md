@@ -14,4 +14,4 @@
 12. git branch nameOfBranch                  // to create a new branch
 13. git checkout main   or   git switch main // to change the branches
 14.                                          // both are use to delete the branches
-15. git branch -d master  "or"   git push origin --delete master
+15. git branch -d master  "or"   git push origin --delete maste
